@@ -1,6 +1,6 @@
 # UCAS-矩阵分析与应用-Python
 
-李老师的《矩阵分析与应用》，大作业，不要照搬以免被判挂科。
+李老师的《矩阵分析与应用》，大作业，不要照搬以免被判挂科。保存此案例以便测试程序、科研创新调用。
 
 完成课堂上讲的关于矩阵分解的LU分解、QR分解（Gram-Schmidt）、Orthogonal Reduction (Householder变换 reduction     和Givens变换 reduction)和 URV程序实现。在此基础上，实现Ax=b方程组的求解，以及计算A的行列式。
 
